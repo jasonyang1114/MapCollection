@@ -52,4 +52,5 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(libs.google.maps)
     implementation("com.google.code.gson:gson:2.10.1")
+    implementation("com.google.ai.client.generativeai:generativeai:0.5.0")
 }
